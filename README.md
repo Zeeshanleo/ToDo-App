@@ -30,7 +30,7 @@ The application allows users to manage their tasks by adding, viewing, updating,
 
 ### Installation
 
-Clone the repository:
+Clone the repository.
 
 ## Install dependencies:
 - cd server
